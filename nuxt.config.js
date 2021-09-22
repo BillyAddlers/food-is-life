@@ -1,4 +1,10 @@
 export default {
+    target: 'static',
+    // We're using github pages, so we set base route to sub pages on the github pages.
+    router: {
+        base: '/food-is-life'
+    },
+    //
     buildModules: ['@nuxt/typescript-build'],
     srcDir: 'src',
     components: true,

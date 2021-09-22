@@ -13,3 +13,6 @@ A Delicious Website
 npm install
 npm run dev
 ```
+
+# Live Sample
+[here](https://billyaddlers.github.io/food-is-life/)
