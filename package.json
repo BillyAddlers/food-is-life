@@ -1,0 +1,20 @@
+{
+    "name": "food-is-life",
+    "author": "Riichi Rusdiana",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "nuxt": "^2.15.8"
+    },
+    "devDependencies": {
+        "@nuxt/types": "^2.15.8",
+        "@nuxt/typescript-build": "^2.1.0",
+        "fibers": "^5.0.0",
+        "sass": "^1.42.0",
+        "sass-loader": "10"
+    }
+}
