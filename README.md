@@ -1,6 +1,8 @@
 # Food is Life
 A Delicious Website
 
+![Website](./website.png)
+
 # Prerequisites
 - [node](https://nodejs.org/) - We recommend you have the latest LTS version installed.
 - A text editor, we recommend [VS Code](https://code.visualstudio.com/) with the [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) extension or [WebStorm](https://www.jetbrains.com/webstorm/)
